@@ -42,9 +42,9 @@ const contacts = [
 ];
 
 const quickLinks = [
-  { label: "Skills", href: "#skills" },
-  { label: "Projects", href: "#projects" },
-  { label: "Resume", href: "#resume" },
+  { label: "Skills", href: "/Skills" },
+  { label: "Projects", href:"/project" },
+  { label: "Resume", href: "/Resume" },
 ];
 
 const NAME = "RAKIB HASAN";
